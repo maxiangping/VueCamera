@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>关闭</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="主要页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="品牌、" transform="translate(-600.000000, -171.000000)">
+            <g id="搜索框" transform="translate(0.000000, 142.000000)">
+                <g id="关闭" transform="translate(600.000000, 29.000000)">
+                    <circle id="Oval-" fill="#A0A1A7" cx="15" cy="15" r="15"></circle>
+                    <path d="M14,14 L6.99339768,14 C6.44494629,14 6,14.4477153 6,15 C6,15.5561352 6.44475929,16 6.99339768,16 L14,16 L14,23.0066023 C14,23.5550537 14.4477153,24 15,24 C15.5561352,24 16,23.5552407 16,23.0066023 L16,16 L23.0066023,16 C23.5550537,16 24,15.5522847 24,15 C24,14.4438648 23.5552407,14 23.0066023,14 L16,14 L16,6.99339768 C16,6.44494629 15.5522847,6 15,6 C14.4438648,6 14,6.44475929 14,6.99339768 L14,14 Z" id="Rectangle-" fill="#FFFFFF" transform="translate(15.000000, 15.000000) rotate(46.000000) translate(-15.000000, -15.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
